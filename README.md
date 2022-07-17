@@ -6,6 +6,8 @@ Within this README are links to all the resources mentioned in the "Exploring th
 
 ## Open Education / Tuition
 
+Resources dedicated to upskilling data scientists and promoting open research.
+
 * [Carpentries](https://carpentries.org)
 * [The Turing Way](https://the-turing-way.netlify.app/welcome)
 * [Top 10 Findable, Accessible, Interoperable and Reusable (FAIR) Data & Software Things](https://librarycarpentry.org/Top-10-FAIR/)
@@ -13,7 +15,7 @@ Within this README are links to all the resources mentioned in the "Exploring th
 
 ## Version Control / Project Management
 
-Managing projects, resources and code, as well as the collaborations on them.
+Managing projects, resources and code, as well as collaborations.
 
 * [Git Version Control](https://git-scm.com)
 * [Github](https://github.com)
@@ -25,16 +27,19 @@ Managing projects, resources and code, as well as the collaborations on them.
 
 ## Software Development Best Practice
 
+Useful sites about software development generally, and how to make it work for you as a skill.
+
 * [UK Government Guidance on Open Source](https://www.gov.uk/guidance/be-open-and-use-open-source)
+* [Tutorials: Codeacademy](https://www.codecademy.com/)
 * [Deceptive design patterns](https://www.deceptive.design/)
 * [Refactoring Guru - Smart Programming](https://refactoring.guru/)
 * [Software Sustainability Institute](https://www.software.ac.uk)
+  * In particular look at the guides for a vast array of links!
 
 ## Code / Runtime Environments
 
 Managing and understanding execution environments for your code.
 
-* [Tutorials: Codeacademy](https://www.codecademy.com/)
 * [Environments: Conda](https://conda.io)
 * [Environments: Julia Pkg](https://docs.julialang.org/en/v1/stdlib/Pkg/)
 * [Environments: Python venv](https://docs.python.org/3/library/venv.html)
@@ -53,13 +58,16 @@ Understanding legal obligations in managing information, be it data, code or res
 * [Information Commissioners Office Guide on Data Protection](https://ico.org.uk/for-organisations/guide-to-data-protection)
 * [General Data Protection Regulation guidance](https://gdpr.eu/what-is-gdpr)
 * [Choose a license - coding licenses explained](https://choosealicense.com/)
-* Local organisational policies / CIO (Chief Information Officer) / UKRI guidance?  
+* Your employment contract
+* Local organisational policies 
+* CIO (Chief Information Officer)
+* UKRI / Government Guidance  
 
 ## Publishing
 
+* [_ORCID Unique Identifiers_](https://orcid.org/)
+* [_International Digital Object Identifier (DOI) Federation_](https://doi.org)
 * [Zenodo](http://www.zenodo.org)
-* [ORCID Unique Identifiers](https://orcid.org/)
-* [International Digital Object Identifier (DOI) Federation](https://doi.org)
 * [Arxiv](https://arxiv.org)
 * [Open Science Framework](https://osf.io/)
 * [Science Octopus](https://science-octopus.org/)
