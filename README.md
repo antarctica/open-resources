@@ -21,7 +21,7 @@ Managing projects, resources and code, as well as the collaborations on them.
 * [OpenProject](https://www.openproject.org/)
 * [Git introduction - Software Carpentry](https://swcarpentry.github.io/git-novice/)
 * [Github introduction by Kirstie Jane](https://kirstiejane.github.io/friendly-github-intro/)
-* Software Development Lifecycles (SDLC)
+* [System Development Lifecycles (SDLC)](https://en.wikipedia.org/wiki/Systems_development_life_cycle)
 
 ## Software Development Best Practice
 
