@@ -34,7 +34,7 @@ Useful sites about software development generally, and how to make it work for y
 * [Deceptive design patterns](https://www.deceptive.design/)
 * [Refactoring Guru - Smart Programming](https://refactoring.guru/)
 * [Software Sustainability Institute](https://www.software.ac.uk)
-  * In particular look at the guides for a vast array of links!
+  * In particular look at the [guides](https://software.ac.uk/resources/guides/guides-developers) for a vast array of materials!
 
 ## Code / Runtime Environments
 
