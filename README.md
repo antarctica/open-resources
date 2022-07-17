@@ -65,12 +65,15 @@ Understanding legal obligations in managing information, be it data, code or res
 
 ## Publishing
 
-* [_ORCID Unique Identifiers_](https://orcid.org/)
-* [_International Digital Object Identifier (DOI) Federation_](https://doi.org)
+Tools and resources, __some critical__, that you should know about for publishing.
+
+* [__ORCID Unique Identifiers__](https://orcid.org/)
+* [__International Digital Object Identifier (DOI) Federation__](https://doi.org)
 * [Zenodo](http://www.zenodo.org)
 * [Arxiv](https://arxiv.org)
 * [Open Science Framework](https://osf.io/)
 * [Science Octopus](https://science-octopus.org/)
+* Your local data champions / data center(s)
 
 [1]: https://www.c2d3.cam.ac.uk/events/open-science-and-sustainable-software-data-driven-discovery
 [2]: https://www.c2d3.cam.ac.uk/
