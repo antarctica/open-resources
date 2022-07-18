@@ -74,6 +74,7 @@ Tools and resources, __some critical__, that you should know about for publishin
 * [Open Science Framework](https://osf.io/)
 * [Science Octopus](https://science-octopus.org/)
 * Your local data champions / data center(s)
+* [UKRI open-access policy update](https://www.openaccess.cam.ac.uk/funder-open-access-policies/ukri-open-access-policy-update)
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This README is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
